@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  height: auto;
+  width: auto;
+  background-image: url(../src/fondo.jpg);
+  font-family: 'Silkscreen',cursive;
+  font-size: 25px;
+  margin: 20px;
+  color: white;
+  text-align: center;
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
+
